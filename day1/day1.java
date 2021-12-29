@@ -8,7 +8,7 @@ public class day1 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 
-		String fileName = "d:\\Dropbox\\Dropbox\\files\\EclipseWorkspaces\\0_study\\adventOfCode\\src\\korney\\adventOfCode2021\\day1\\day1input.txt";
+		String fileName = "src\\korney\\adventOfCode2021\\day1\\day1input.txt";
 		Scanner scanner = new Scanner(new File(fileName));
 
 		ArrayList<Integer> depthReadings = new ArrayList<>();
